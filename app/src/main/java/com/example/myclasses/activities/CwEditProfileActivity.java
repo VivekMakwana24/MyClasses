@@ -340,7 +340,6 @@ public class CwEditProfileActivity extends AppCompatActivity implements CountryC
         });
 */
 
-
     }
 
     private boolean validateForm() {

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyClasses</string>
+
+    <string name="message_no_internet_connection">No Internet Connection</string>
+    <!--Utils-->
+    <string name="error_"> Error!</string>
+    <string name="noInternet">No Internet</string>
+    <string name="loading">Loading…</string>
+    <string name="ok">OK</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="exit">Exit</string>
+    <string name="dataLoading">Please wait for a while</string>
+    <string name="dwnldng">Downloading…</string>
+    <string name="dwnldInProgress">Download in progress</string>
+    <string name="dnwldItem">Download item…</string>
+    <string name="fileDwnlded">File Downloaded.</string>
+    <string name="dwnldComplete">Download complete</string>
+    <string name="fileNoteDwnld">File Not Downloaded.</string>
+    <string name="dwnldngFailed">Downloading Failed</string>
+    <string name="open_file_with">Open File With</string>
+    <string name="gpsSettings">GPS  settings</string>
+    <string name="gpsNotEnabled">GPS is not enabled. Go to Setting and Please Enabled GPS</string>
+    <string name="settings">Settings</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+</resources>

@@ -25,4 +25,44 @@
     <string name="no">No</string>
     <string name="yes">Yes</string>
 
+
+    <!--Sign Up-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_small">Sign up</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="first_name">First Name</string>
+    <string name="star">*</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_contact_no">Enter Contact No.</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="otp">OTP</string>
+    <string name="enter_referral_code">Enter Referral Code</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="age">Age</string>
+    <string name="enter_education_level">Enter Education Level</string>
+    <string name="education_level">Education Level</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="address">Address</string>
+    <string name="upload_photo_id">Upload Photo ID</string>
+    <string name="security_paper">Security Paper</string>
+    <string name="upload_security_paper">Upload Security Paper</string>
+    <string name="enter_military_status">Enter Military Status</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="sign_up_with_facebook">SIGN UP WITH FACEBOOK</string>
+    <string name="sign_up_with_google">SIGN UP WITH GOOGLE</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_id">Email id</string>
+    <string name="enter_email">enter email</string>
+    <string name="experience_desc">exp</string>
+    <string name="enter_exp_desc">enter exp</string>
+
+
 </resources>
